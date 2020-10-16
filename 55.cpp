@@ -1,3 +1,17 @@
+  
+/* @@
+    @@ Instituto Tecnologico de Tijuana
+    @@ Depto de Sistemas y Computación
+    @@ Ing. En Sistemas Computacionales
+    @@   
+    @@ Autor : Arath Duran Hernandez @nickname DuranArath150
+    @@ Repositorio: http://github.com/DuranArath/trabajospros
+    @@ Fecha de revisión: ____
+    @@ 
+    @
+    @ Objetivo del programa:
+    @ Cantidad aproximada de cuanto ha dormido una persona en toda su vida*/
+
 #include <iostream>
 
 using namespace std;
