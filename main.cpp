@@ -1,11 +1,16 @@
-/******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
-
+  
+/* @@
+    @@ Instituto Tecnologico de Tijuana
+    @@ Depto de Sistemas y Computación
+    @@ Ing. En Sistemas Computacionales
+    @@   
+    @@ Autor : Arath Duran Hernandez @nickname DuranArath150
+    @@ Repositorio: http://github.com/DuranArath/trabajospros
+    @@ Fecha de revisión: ____
+    @@ 
+    @
+    @ Objetivo del programa:
+    @ Ordenar una lista de numeros de forma decendente*/
 #include <iostream>
 
 using namespace std;
